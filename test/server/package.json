@@ -1,0 +1,11 @@
+{
+  "name": "chat",
+  "description": "chat node app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "*",
+    "mongodb": "~2.*",
+    "passport": "*"
+  }
+}
